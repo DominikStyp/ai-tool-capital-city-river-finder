@@ -1,4 +1,4 @@
-# AI Course
+# AI Tool based on ChatGTP to find the river of the capital city by prompt
 
 ## Getting started
 
